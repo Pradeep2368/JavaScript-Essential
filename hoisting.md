@@ -17,3 +17,14 @@
 console.log(myVar); // Output: undefined
 var myVar = 5;
 console.log(myVar); // Output: 5
+```
+
+![Hoisting Example](https://raw.githubusercontent.com/Pradeep2368/JavaScript-Notes/refs/heads/main/hoisted.png)
+
+## Conclusion:
+
+  - In JavaScript, **hoisting** allows variable and function declarations to be moved to the top of their scope during the compile phase. This is why `undefined` is logged when trying to access a variable before its declaration. However, only the declaration is hoisted, not the assignment.
+  - Understanding hoisting helps avoid unexpected behavior in your code, especially when using `var`. Consider using `let` or `const` in modern JavaScript, as they do not exhibit hoisting in the same way and avoid the potential pitfalls of `var`.
+
+***
+    
