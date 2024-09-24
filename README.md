@@ -11,8 +11,7 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 - [The Block, The Block Scope and The Shadowing ](block-scope.md)
 
 ### Advanced Concepts
-- [Lexical Environment](lexical-environment.md)
-- [Scope Chain](scope-chain.md)
+- [Lexical Environment & The Scope Chain](lexical-environment.md)
 - [Temporal Dead Zone](temporal-dead-zone.md)
 - [Are `let` and `const` Declarations Hoisted?](let-const-hoisting.md)
 
