@@ -8,8 +8,7 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 - [Execution Context](execution-context.md)
 - [Hoisting](hoisting.md)
 - [The Scope](scope.md)
-- [Block and Block Scope](block-scope.md)
-- [Shadowing](shadowing.md)
+- [The Block, The Block Scope and The Shadowing ](block-scope.md)
 
 ### Advanced Concepts
 - [Lexical Environment](lexical-environment.md)
