@@ -127,4 +127,9 @@ outerFunction();
    - The call stack shows the order of execution. `innerFunction()` is at the top while it runs, and once it completes, it’s removed, returning to `outerFunction()`, which then finishes and returns to the global context.
 
 6. Call Stack get deleted or is removed and get empty:
-   - Once the program execution is completed, the call stack also get empty removing the Global Execution Context. 
+   - Once the program execution is completed, the call stack also get empty removing the Global Execution Context.
+
+```
+*****
+
+ Read: [Hoisting in JS](hoisting.md)
