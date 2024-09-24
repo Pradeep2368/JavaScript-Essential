@@ -15,7 +15,7 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 - [Temporal Dead Zone & The mystery of `let` and `const` Declaration (How it is different from `var`)](temporal-dead-zone.md)
 
 
-### Errors
+### Understanding Errors in JS
 - [Syntax Error](syntax-error.md)
 - [Reference Error](reference-error.md)
 - [Type Error](type-error.md)
