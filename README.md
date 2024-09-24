@@ -1,4 +1,4 @@
-# JavaScript Notes
+# JavaScript
 
 Welcome to my JavaScript notes repository! This is where I document the concepts I’ve learned while studying JavaScript. Each topic is explained with examples to make it easier to understand.
 
