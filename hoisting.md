@@ -1,3 +1,6 @@
+prev topic: [Execution Context in JS](execution-context.md)
+***
+***
 # JavaScript Hoisting
 
 ## Definition: 
@@ -30,4 +33,6 @@ console.log(myVar); // Output: 5
   - Understanding hoisting helps avoid unexpected behavior in your code, especially when using `var`. Consider using `let` or `const` in modern JavaScript, as they do not exhibit hoisting in the same way and avoid the potential pitfalls of `var`.
 
 ***
+
+Read: [All about The Scope](scope.md)
     
