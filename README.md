@@ -12,8 +12,8 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 
 ### Advanced Concepts
 - [Lexical Environment & The Scope Chain](lexical-environment.md)
-- [Temporal Dead Zone](temporal-dead-zone.md)
-- [Are `let` and `const` Declarations Hoisted?](let-const-hoisting.md)
+- [Temporal Dead Zone & The mystery of `let` and `const` Declaration (How it is different from `var`)](temporal-dead-zone.md)
+
 
 ### Errors
 - [Syntax Error](syntax-error.md)
