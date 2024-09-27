@@ -11,7 +11,7 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 - [The Block, The Block Scope and The Shadowing ](block-scope.md)
 
 ### Intermediate Concepts
-- - [JavaScript Function](javascript-function.md)
+- [JavaScript Function](javascript-function.md)
 
 ### Advanced Concepts
 - [Lexical Environment & The Scope Chain](lexical-environment.md)
