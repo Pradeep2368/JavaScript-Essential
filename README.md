@@ -10,6 +10,9 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 - [The Scope](scope.md)
 - [The Block, The Block Scope and The Shadowing ](block-scope.md)
 
+### Intermediate Concepts
+- - [JavaScript Function](javascript-function.md)
+
 ### Advanced Concepts
 - [Lexical Environment & The Scope Chain](lexical-environment.md)
 - [Temporal Dead Zone & The mystery of `let` and `const` Declaration (How it is different from `var`)](temporal-dead-zone.md)
