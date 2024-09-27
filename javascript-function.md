@@ -65,7 +65,7 @@ namedFunction(); // Error, as the name is only accessible inside the function
 
 Key Point: Name is local to the function and helps in recursion or debugging.
 
-## First-Class Function
+## First-Class Functions
 In JavaScript, functions are treated like any other value, such as numbers or strings. This means you can:
 
 - Pass a function as an argument to another function.
