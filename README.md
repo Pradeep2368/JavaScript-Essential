@@ -13,6 +13,7 @@ Welcome to my JavaScript notes repository! This is where I document the concepts
 ### Intermediate Concepts
 - [JavaScript Function - Function Declaration `aka` Function Statement, Function Expression, ...... First Class Function ](javascript-function.md)
 - [Callback Function](callback.md)
+- [Understanding the Event Loop](eventloop.md)
 
 ### Advanced Concepts
 - [Lexical Environment & The Scope Chain](lexical-environment.md)
